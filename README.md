@@ -68,6 +68,17 @@ If you find bugs, incorrect calculations or have ideas for improvements, **feel 
 
 You don’t need to ask for permission. A small mention of the original author and this fork is always appreciated, but not required.
 
-Enjoy breaking (and fixing) it as much as you want 🙂
+## Enjoy breaking (and fixing) it as much as you want 🙂
 
-“If the original author prefers this fork not to be published, I will happily take it down.”
+## Credits
+
+- **Original stat calculator**:  
+  Created by [Corey Kovalik](https://github.com/CoreyKovalik) (Immotal)
+
+  - Repo: <https://github.com/CoreyKovalik/conan-stat-calc>
+  - Live version: <https://coreykovalik.github.io/conan-stat-calc/>
+
+- **Updated fork (this project)**:  
+  Updated for the newer attribute system and layout by **Armando Macchiarulo**
+  - Repo: <https://github.com/ArmandoMacchiarulo/conan-stat-calc>
+  - Live version: <https://armandomacchiarulo.github.io/conan-stat-calc/>

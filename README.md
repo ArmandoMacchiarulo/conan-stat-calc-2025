@@ -69,3 +69,5 @@ If you find bugs, incorrect calculations or have ideas for improvements, **feel 
 You don’t need to ask for permission. A small mention of the original author and this fork is always appreciated, but not required.
 
 Enjoy breaking (and fixing) it as much as you want 🙂
+
+“If the original author prefers this fork not to be published, I will happily take it down.”
